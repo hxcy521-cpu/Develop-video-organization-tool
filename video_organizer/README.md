@@ -30,7 +30,20 @@ video_organizer/
    ```bash
    python main.py
    ```
-3. 打包 exe（Windows）：双击 `build_exe.bat`。
+
+## Windows 打包 EXE
+
+在 `video_organizer` 目录下执行：
+
+```bat
+build_exe.bat
+```
+
+打包成功后输出文件位于：
+
+```text
+dist/video_organizer.exe
+```
 
 ## 模块说明
 
