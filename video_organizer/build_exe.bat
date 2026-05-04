@@ -32,3 +32,4 @@ if errorlevel 1 (
 
 echo [OK] 打包完成：%CD%\dist\video_organizer.exe
 exit /b 0
+
